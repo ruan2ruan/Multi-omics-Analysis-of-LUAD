@@ -1,0 +1,68 @@
+Gene	Cell Type
+BLK	B-cells
+CD19	B-cells
+MS4A1	B-cells
+TNFRSF17	B-cells
+FCRL2	B-cells
+KIAA0125	B-cells
+PNOC	B-cells
+SPIB	B-cells
+TCL1A	B-cells
+PTPRC	CD45
+CD8A	CD8 T cells
+CD8B	CD8 T cells
+CTSW	Cytotoxic cells
+GNLY	Cytotoxic cells
+GZMA	Cytotoxic cells
+GZMB	Cytotoxic cells
+GZMH	Cytotoxic cells
+KLRB1	Cytotoxic cells
+KLRD1	Cytotoxic cells
+KLRK1	Cytotoxic cells
+PRF1	Cytotoxic cells
+NKG7	Cytotoxic cells
+CCL13	DC
+CD209	DC
+HSD11B1	DC
+CD244	Exhausted CD8
+EOMES	Exhausted CD8
+LAG3	Exhausted CD8
+PTGER4	Exhausted CD8
+CD163	Macrophages
+CD68	Macrophages
+CD84	Macrophages
+MS4A4A	Macrophages
+MS4A2	Mast cells
+TPSAB1	Mast cells
+CPA3	Mast cells
+HDC	Mast cells
+TPSB2	Mast cells
+CSF3R	Neutrophils
+S100A12	Neutrophils
+CEACAM3	Neutrophils
+FCAR	Neutrophils
+FCGR3B	Neutrophils
+FPR1	Neutrophils
+SIGLEC5	Neutrophils
+IL21R	NK CD56dim cells
+KIR2DL3	NK CD56dim cells
+KIR3DL1	NK CD56dim cells
+KIR3DL2	NK CD56dim cells
+NCR1	NK cells
+XCL2	NK cells
+XCL1	NK cells
+CD3D	T-cells
+CD3E	T-cells
+CD3G	T-cells
+CD6	T-cells
+SH2D1A	T-cells
+TRAT1	T-cells
+TBX21	Th1 cells
+FOXP3	Treg
+IGFBP4	CD4
+ITM2A	CD4
+AMIGO2	CD4
+TRAT1	CD4
+CD40LG	CD4
+ICOS	CD4
+RCAN3	CD4
